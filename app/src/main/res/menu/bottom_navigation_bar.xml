@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_house"
+        android:title="Houses"/>
+
+
+    <item
+        android:id="@+id/navigation_character"
+        android:title="Characters"/>
+
+
+    <item
+        android:id="@+id/navigation_spell"
+        android:title="Spell"/>
+
+
+</menu>
